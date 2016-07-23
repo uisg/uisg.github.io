@@ -3,7 +3,7 @@ layout: post
 author: Костянтин Корсун
 date: 2016-07-21
 title: Анонс UISGCON12
-excerpt_separetor: <!-- more -->
+excerpt_separator: <!-- more -->
 ---
 
 Шановні колеги!
